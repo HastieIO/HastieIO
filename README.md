@@ -44,5 +44,5 @@ I like to reflect on what I’ve learned through work and projects. These are no
 
 ---
 
-Thanks for visiting! Feel free to explore, and don’t hesitate to connect on [LinkedIn](https://www.linkedin.com/in/denney-t-167546261/).
+Thanks for visiting!
 
