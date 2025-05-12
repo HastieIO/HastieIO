@@ -47,7 +47,6 @@ Sometimes it's about a project, sometimes about work or life in tech.
 
 ## 🌐 Coming Soon
 
-- Terminal-style personal portfolio (hosted here)  
 - *HollowRoot Phase 2*: Azure exploitation, blob access, and logic bombs  
 - More high-impact red/blue team labs  
 - Blog-style reflections from my internships and cert journey  
