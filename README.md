@@ -31,8 +31,6 @@ I'm currently studying cybersecurity and gaining hands-on experience through lab
 
 I like to reflect on what I’ve learned through work and projects. These are not tutorials — just my personal thoughts and takeaways.
 
-- **[Internship Journal: Mutual of Omaha](https://github.com/HastieIO/mutual-journal)**  
-  Documenting my Summer 2025 cybersecurity internship — what I worked on and what I learned. **Coming Soon**
 
 - **[Tech Blog: Learning & Growth](https://github.com/HastieIO/writings)**  
   Occasional posts about studying, building, and working in tech.
