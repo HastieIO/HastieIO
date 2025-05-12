@@ -8,41 +8,50 @@ This isn’t a place for polished tutorials. It’s where I break things, fix th
 
 ## 🖥️ Cybersecurity Projects & Labs
 
-I'm currently diving deep into cybersecurity — especially **identity & access management (IAM)**, **Active Directory**, and **cloud security**. My projects aim to simulate real-world environments and threats, based on actual breaches and security gaps I’ve studied.
+I'm currently diving deep into cybersecurity — especially **identity & access management (IAM)**, **Active Directory**, and **cloud security**. My projects are based on real attack paths and mistakes seen in the wild.
 
-### 🔓 [HollowRoot – Insider Threat Lab]([https://github.com/HastieIO/HollowRoot](https://github.com/HastieIO/HollowRoot-Insider-Threat-Lab-in-AD-Azure))
-A fictional fintech company, built from the ground up — and then breached from the inside.  
-Includes 100-user AD deployment, bad practices, cloud misconfigs, and a rogue intern storyline.
+### 🔓 [HollowRoot – Insider Threat Lab](https://github.com/HastieIO/HollowRoot-Insider-Threat-Lab-in-AD-Azure)  
+A fictional fintech company, **Blackridge Bank**, built from scratch — and then breached by a rogue intern using weak passwords, overprivileged accounts, reused credentials, and cloud misconfigs.  
+Includes a full 100-user AD deployment, NTFS abuse, a hybrid Azure setup, and a storyline inspired by real-world breaches like Uber and Capital One.
 
-### 🧱 [Zero to Zero.Five – Homelab Security](https://github.com/HastieIO/zero-to-zero-five)
-Securing my first Proxmox homelab using real-world hardening techniques, ACLs, Tailscale, and more.  
-Think: zero trust… under my desk.
+### 🧱 [Zero to Zero.Five – Proxmox Homelab](https://github.com/HastieIO/zero-to-zero-five-homelab)  
+My first homelab — secured from the ground up.  
+Built on Proxmox VE with hardened SSH, identity-based access via Tailscale, UFW firewall rules, 2FA for the GUI, and ACLs that mimic zero trust.  
+Not enterprise gear, but still treated like production.
 
 ---
 
 ## 🔧 PC Builds (Mine & For Others)
 
 I build PCs for gaming, school, and work — for myself and others.  
-Every build is custom and documented with care.
+Every build is planned with care and documented with:
 
-- **[PC Builds Repo](https://github.com/HastieIO/gaming-pc-builds)** — part lists, pricing, photos, and build logic for each setup.
+- Part lists & price breakdowns  
+- Photos of the build  
+- Notes on why parts were chosen  
+- Lessons learned  
+
+🖱️ [Check out my PC builds](https://github.com/HastieIO/gaming-pc-builds)
 
 ---
 
 ## ✍️ Writings & Reflections
 
-I like to write about what I learn — not as a teacher, but as a student thinking out loud. These posts are personal reflections on internships, labs, and life in tech.
+I like to write about what I learn — not as a tutorial, but as a personal debrief.  
+Sometimes it's about a project, sometimes about work or life in tech.
 
 - **[Tech Blog: Learning & Growth](https://github.com/HastieIO/writings)**  
-  Thoughts on security, career, and building things that break.
+  Thoughts on security, career, and building stuff that breaks.
 
 ---
 
 ## 🌐 Coming Soon
-- Personal portfolio site (terminal-style landing page)
-- Full write-up of *HollowRoot Phase 2* (cloud pivot + Azure exploitation)
-- More red/blue team simulations and real-world inspired lab environments
+
+- Terminal-style personal portfolio (hosted here)  
+- *HollowRoot Phase 2*: Azure exploitation, blob access, and logic bombs  
+- More high-impact red/blue team labs  
+- Blog-style reflections from my internships and cert journey  
 
 ---
 
-Thanks for stopping by — and feel free to poke around.
+Thanks for stopping by — feel free to poke around or reach out.
