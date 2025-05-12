@@ -10,7 +10,7 @@ This isn’t a place for polished tutorials. It’s where I break things, fix th
 
 I'm currently diving deep into cybersecurity — especially **identity & access management (IAM)**, **Active Directory**, and **cloud security**. My projects aim to simulate real-world environments and threats, based on actual breaches and security gaps I’ve studied.
 
-### 🔓 [HollowRoot – Insider Threat Lab](https://github.com/HastieIO/HollowRoot)
+### 🔓 [HollowRoot – Insider Threat Lab]([https://github.com/HastieIO/HollowRoot](https://github.com/HastieIO/HollowRoot-Insider-Threat-Lab-in-AD-Azure))
 A fictional fintech company, built from the ground up — and then breached from the inside.  
 Includes 100-user AD deployment, bad practices, cloud misconfigs, and a rogue intern storyline.
 
